@@ -1,7 +1,3 @@
-# Site Scribe Frontend
-
-Netlify Development status  [![Netlify Status](https://api.netlify.com/api/v1/badges/8bf7a62d-ba25-409d-bfef-c97478ef8f7d/deploy-status)](https://app.netlify.com/sites/site-scribe-development/deploys)
-
 ### Steps to setup the application
 1. To install the required packages `yarn install`
 2. To run the server `yarn start`
